@@ -195,5 +195,26 @@ div#ppag{
  .producto p{
             margin: 5px 0;
     }
-	  
+.texto-contacto{
+	padding-top:5px;
+	font-size:35px;
+}
+.contacto-caja{
+	height:500px;
+	width:1250px;
+	background:#FDD3FC;
+	border:1px solid #FDD3FC;
+	margin:20px;
+	color:black;
+	text-align:justify;
+	display:inline-block;
+}
+.contacto-caja-texto{
+	background:#FDD3FC;
+	border:1px solid #FDD3FC;
+	margin:20px;
+	color:black;
+	text-align:center;
+	display:inline-block;
+}
 	  
